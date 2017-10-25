@@ -1,4 +1,4 @@
-# 3layerAPP
+# 3layerAPP :boom:
 #MAIN MENU
 ![screenshot_1508905870](https://user-images.githubusercontent.com/14055135/31981770-3e8d3160-b923-11e7-8aa8-bfe1d128f206.png)
 
@@ -22,4 +22,4 @@
 ![screenshot_1508905899](https://user-images.githubusercontent.com/14055135/31981776-3ef03710-b923-11e7-81f3-f970973e3293.png)
 
 #TABLET VIEW
-![screenshot_1508905899](https://user-images.githubusercontent.com/14055135/31981776-3ef03710-b923-11e7-81f3-f970973e3293.png)
+![screenshot_1508907913](https://user-images.githubusercontent.com/14055135/31982052-a1d979ee-b924-11e7-83eb-269c7048b4ab.jpg)
