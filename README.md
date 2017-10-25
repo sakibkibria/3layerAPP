@@ -20,3 +20,6 @@
 
 #THIRD LAYER DETAILS
 ![screenshot_1508905899](https://user-images.githubusercontent.com/14055135/31981776-3ef03710-b923-11e7-81f3-f970973e3293.png)
+
+#TABLET VIEW
+![screenshot_1508905899](https://user-images.githubusercontent.com/14055135/31981776-3ef03710-b923-11e7-81f3-f970973e3293.png)
