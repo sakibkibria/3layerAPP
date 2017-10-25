@@ -23,3 +23,6 @@
 
 #TABLET VIEW
 ![screenshot_1508907913](https://user-images.githubusercontent.com/14055135/31982052-a1d979ee-b924-11e7-83eb-269c7048b4ab.jpg)
+
+#ORDER ACTIVITY
+<img width="243" alt="screen shot 2017-10-25 at 1 18 30 am" src="https://user-images.githubusercontent.com/14055135/31982086-d75af9bc-b924-11e7-81e6-81f46448898a.png">
